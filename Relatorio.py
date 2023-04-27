@@ -1,10 +1,10 @@
 # Importar bibliotecas:
-import pandas as pd
+import pandas
 # importar base dados
-tabela_vendas = pd.read_excel('Vendas.xlsx');
+tabela=pandas.read_excel('Vendas.xlsx')
 
 # Vizualizar base dados 
-print('hello word')
+print(tabela)
 
 # Faturamento por loja
 
