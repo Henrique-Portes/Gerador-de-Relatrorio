@@ -2,7 +2,7 @@
 import pandas as pd
 
 # importar base dados
-
+import 
 # Vizualizar base dados 
 
 # Faturamento por loja
