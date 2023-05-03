@@ -1,7 +1,7 @@
 # Importar bibliotecas:
-import pandas
+import pandas as pd
 # importar base dados
-tabela=pandas.read_excel('Vendas.xlsx')
+tabela= pd.read_excel('Vendas.xlsx')
 
 # Vizualizar base dados 
 print(tabela)
